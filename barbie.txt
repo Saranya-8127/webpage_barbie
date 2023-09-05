@@ -1,0 +1,57 @@
+
+<!DOCTYPE html5>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title> Barbie 2023 </title>
+	<style>
+		body{
+			background: #F8FDFB  url("/D:/html/kitten.gif") no-repeat fixed center;
+			}
+	</style>
+</head>
+<body>
+	<header> <h1 style="color:#FF7F50">This page is about the new barbie movie.</h1> </header>
+	<main>
+		<section>
+		<h3>about the movie:  </h3>
+		<h5> This movie is played by <u>margot robbie</u> </h5>
+		<p> Barbie is a 2023 American fantasy comedy film directed by Greta Gerwig, from a screenplay she wrote with Noah Baumbach. Based on the Barbie fashion 	dolls by Mattel, it is the first live-action Barbie </p>
+		<p> <i>follow <a target="_blank" href="https://www.imdb.com/title/tt1517268/"> this link </a> to view more about the movie </i> </p>
+		</section>
+
+		<section>
+		<a target="_blank" href="https://www.imdb.com/title/tt1517268/"> 
+<img  src= "https://media.blogto.com/articles/20230404-barbie-trailer-2023_photos_v2_custom.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70" href="https://www.imdb.com/title/tt1517268/" alt="movie picture" width="400" length="400" > </a>		
+		<figure>		
+		<img src="https://static.independent.co.uk/2023/04/04/17/newFile-4.jpg?quality=75&width=1200&auto=webp" width="400" length="400" > 
+		<figcaption>barbie <em>is supposed to represent feminism</em> but it is not relatable to real women</figcaption>
+		</figure>
+		</section>
+
+		<section>
+		<h4 style="color:DodgerBlue;"><b>barbie types </b></h4>
+		<ul>
+			<li>Astronaut barbie </li>
+			<li>chef barbie </li>
+			<li>scientist barbie </li>
+		</ul>
+		<h4 style="color:DodgerBlue;"> <b>ken types </b></h4>
+		<ol>
+			<li>barbie and teacher ken </li>
+			<li>Barbie and rider ken </li>
+			<li>barbie and surfer ken</li>
+		</ol>
+		<h4 style="color:DodgerBlue;"> <b>popular songs </b></h4>
+		<ul>
+			<li>I'm just ken </li>
+			<li>Barbie girl in the barbie world </li>
+			<li>Barbie by Nicky Minaj ft. ice spice </li>
+		</ul>
+		</section>
+		<h3>The cast image:</h3>
+		<img  src= "/D:/html/cast.jpg" alt="cast of the film" width="400" length="400" > </a>
+		
+		
+</body>
+</html>
